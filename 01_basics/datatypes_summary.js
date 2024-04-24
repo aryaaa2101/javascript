@@ -39,3 +39,6 @@ console.log(typeof id);
 console.log(typeof bigNumber)
 console.log(typeof heros)
 console.log(typeof myFunction)
+
+
+// refer https://262.ecma-international.org/5.1/#sec-11.4.3
