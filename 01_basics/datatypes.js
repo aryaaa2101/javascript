@@ -18,3 +18,7 @@ let loggedIn = true
 
 console.log(typeof "Arya");
 console.log(typeof null);
+
+
+
+//Operations in JS
