@@ -19,7 +19,7 @@ const allheroes =  marvel_heroes.concat(dc_heroes)
 
  //some other useful methods of array
 
- console.log(Array.isArray("Arya"))// this tell wheter the given parameter is an array or not
+ console.log(Array.isArray("Arya"))// this tells whether the given parameter is an array or not
  console.log(Array.from("Arya"))// this makes an array out of the given parameter
  console.log(Array.from({name:"Arya"}))//this paramter is an object,it returns an empty because it is not specified that wheter we need to make array of the keys or the values
 let score1 = 100
