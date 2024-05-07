@@ -20,3 +20,8 @@ JsUser.age = 12;// this won't affect because the the values are locked using fre
 
 console.log(JsUser);
 
+JsUser.greeting = function(){
+    console.log("Hello Js user");
+
+}
+console.log(JsUser.greeting);
