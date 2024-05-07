@@ -1,3 +1,5 @@
+
+//this is singleton way of decalring an object
 const JsUser = {
     name : "Arya",
     age : 22,
