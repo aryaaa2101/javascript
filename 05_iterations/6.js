@@ -9,7 +9,7 @@ console.log(values)
 //filter: this operation also takes a callback function
 const myNums = [1,2,3,4,5,6,7,8,9,10]
 const newNums = myNums.filter((num)=>{
-    return num>4 //this way is called explicit return since we are using curly braces so we need the return keyword
+    return num>4 //this way is called explicit return since we are using curly braces means when we open a scope we need the return keyword
 })
 console.log(newNums);
 
