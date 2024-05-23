@@ -22,7 +22,7 @@ coding.forEach((item,index,arr)=>{
 
 })
 
-
+//here we are decalring an array first and in this array we are defining 3 objects
 const myCoding = [
     {
         languageName : "javascript",
@@ -38,6 +38,7 @@ const myCoding = [
     }
 
 ]
+//accessing the objects using for each loop
 myCoding.forEach((item) =>{
     console.log(item.languageName);
 })
